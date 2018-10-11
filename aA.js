@@ -21,7 +21,8 @@ function compress(str) {
     })
 }
 
-01A digital root / compress string
-01B reverse / sum_rec
-02A fibonacci / isPalindrome
-02B valid_ip ? / shuffle
+// 01A digital root / compress string
+// 01B reverse / sum_rec
+// 02A fibonacci / isPalindrome
+// 02B valid_ip ? / shuffle
+// 03A my_map / 
